@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/course/!svn/ver/6924/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/src/com/shrike/model
+END
+ForgotUserInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/course/!svn/ver/6834/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/src/com/shrike/model/ForgotUserInfo.java
+END
+CourseInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/course/!svn/ver/6834/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/src/com/shrike/model/CourseInfo.java
+END
+StudentInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/course/!svn/ver/6834/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/src/com/shrike/model/StudentInfo.java
+END
+ShrikeConstantList.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/course/!svn/ver/6834/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/src/com/shrike/model/ShrikeConstantList.java
+END
+CoursePlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/course/!svn/ver/6834/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/src/com/shrike/model/CoursePlan.java
+END
+LoginUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/course/!svn/ver/6834/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/src/com/shrike/model/LoginUser.java
+END
+FacultyInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/course/!svn/ver/6834/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/src/com/shrike/model/FacultyInfo.java
+END
+CourseApprove.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/course/!svn/ver/6834/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/src/com/shrike/model/CourseApprove.java
+END

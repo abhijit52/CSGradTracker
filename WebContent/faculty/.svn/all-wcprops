@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/course/!svn/ver/6774/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/faculty
+END
+studentDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/course/!svn/ver/6774/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/faculty/studentDetails.jsp
+END
+Old_approveCourseGrade.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/course/!svn/ver/6361/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/faculty/Old_approveCourseGrade.jsp
+END
+faculty_home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/course/!svn/ver/6756/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/faculty/faculty_home.jsp
+END
+addReference.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/course/!svn/ver/6452/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/faculty/addReference.jsp
+END
+student.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/course/!svn/ver/6061/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/faculty/student.jsp
+END
+facultyPublications.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/course/!svn/ver/6361/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/faculty/facultyPublications.jsp
+END
+ChangePassword.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/course/!svn/ver/6361/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/faculty/ChangePassword.jsp
+END
+adviseeList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/course/!svn/ver/6772/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/faculty/adviseeList.jsp
+END
+updateInfoFaculty.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/course/!svn/ver/6476/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/faculty/updateInfoFaculty.jsp
+END
+approveCourseGrade.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/course/!svn/ver/6375/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/faculty/approveCourseGrade.jsp
+END
+upload.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/course/!svn/ver/6361/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/faculty/upload.jsp
+END
+editPicture.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/course/!svn/ver/6361/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/faculty/editPicture.jsp
+END
+searchResult.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/course/!svn/ver/6772/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/faculty/searchResult.jsp
+END

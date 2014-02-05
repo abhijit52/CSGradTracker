@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- The contents of this file will be loaded for each web application -->
+<Context>
+	<!-- Default set of monitored resources -->
+	<WatchedResource>WEB-INF/web.xml</WatchedResource>
+
+	<!-- Uncomment this to disable session persistence across Tomcat restarts -->
+	<Manager pathname="" />
+
+	<Realm className="org.apache.catalina.realm.JDBCRealm"
+		driverName="com.mysql.jdbc.Driver"
+		connectionURL="jdbc:mysql://141.225.11.129:3306/shrike"
+		connectionName="u_shrike"
+		connectionPassword="bea2TRIX"
+		userTable="Users"
+		userNameCol="user_name"
+		userCredCol="user_pass"
+		userRoleTable="User_roles"
+		roleNameCol="role_name" 
+		digest="MD5"/>
+
+</Context>

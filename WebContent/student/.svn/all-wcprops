@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/course/!svn/ver/6894/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/student
+END
+updateInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/course/!svn/ver/6424/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/student/updateInfo.jsp
+END
+showCourse.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/course/!svn/ver/5438/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/student/showCourse.jsp
+END
+viewCoursePlan.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/course/!svn/ver/6380/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/student/viewCoursePlan.jsp
+END
+testcreatecourse.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/course/!svn/ver/6764/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/student/testcreatecourse.jsp
+END
+ChangePassword.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/course/!svn/ver/6343/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/student/ChangePassword.jsp
+END
+editCourses.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/course/!svn/ver/6369/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/student/editCourses.jsp
+END
+student_ViewRequiredCourses.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/course/!svn/ver/5779/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/student/student_ViewRequiredCourses.jsp
+END
+viewCourseStatus.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/course/!svn/ver/6851/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/student/viewCourseStatus.jsp
+END
+student_home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/course/!svn/ver/6756/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/student/student_home.jsp
+END
+editPicture.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/course/!svn/ver/6163/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/student/editPicture.jsp
+END
+addcourseplan.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/course/!svn/ver/6384/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/student/addcourseplan.jsp
+END
+addCoursesForApproval.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/course/!svn/ver/6871/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/student/addCoursesForApproval.jsp
+END
+addGradeForApproval.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/course/!svn/ver/6894/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/student/addGradeForApproval.jsp
+END

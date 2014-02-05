@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/course/!svn/ver/6880/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/secretary
+END
+addStudent.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/course/!svn/ver/5866/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/secretary/addStudent.jsp
+END
+ChangePassword.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/course/!svn/ver/6343/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/secretary/ChangePassword.jsp
+END
+deactivateUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/course/!svn/ver/6880/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/secretary/deactivateUser.jsp
+END
+updateInfoSecretary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/course/!svn/ver/6424/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/secretary/updateInfoSecretary.jsp
+END
+updateUserInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/course/!svn/ver/5832/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/secretary/updateUserInfo.jsp
+END
+searchUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/course/!svn/ver/5517/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/secretary/searchUser.jsp
+END
+addFaculty.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/course/!svn/ver/6303/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/secretary/addFaculty.jsp
+END
+editPicture.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/course/!svn/ver/6163/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/secretary/editPicture.jsp
+END
+secretary_home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/course/!svn/ver/6756/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/WebContent/secretary/secretary_home.jsp
+END

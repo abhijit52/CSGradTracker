@@ -1,0 +1,40 @@
+10
+
+dir
+7012
+https://utopia.cs.memphis.edu/course/comp7012-2013spring/teams/shrike/CSGradTracker/trunk
+https://utopia.cs.memphis.edu/course
+
+
+
+2013-05-10T04:01:09.514929Z
+6990
+rbanjade
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+06a872e2-f362-4561-9c3c-a5afe607f852
+
+WebContent
+dir
+
+doc
+dir
+
+localization
+dir
+
+src
+dir
+

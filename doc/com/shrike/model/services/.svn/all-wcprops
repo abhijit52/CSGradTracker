@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/model/services
+END
+images.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/model/services/images.html
+END
+ConfirmPasswordDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/model/services/ConfirmPasswordDAO.html
+END
+ForgotPasswordDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/model/services/ForgotPasswordDAO.html
+END
+ConnectionDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/model/services/ConnectionDAO.html
+END
+DbConnectionException.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/model/services/DbConnectionException.html
+END
+CoursePlanDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/model/services/CoursePlanDAO.html
+END
+Messages.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/model/services/Messages.html
+END
+CourseInfoDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/model/services/CourseInfoDAO.html
+END
+StudentInfoDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/model/services/StudentInfoDAO.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/model/services/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/model/services/package-tree.html
+END
+DataAccessException.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/model/services/DataAccessException.html
+END
+FacultyInfoDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/model/services/FacultyInfoDAO.html
+END
+CourseApproveDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/model/services/CourseApproveDAO.html
+END
+DbUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/model/services/DbUtil.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/model/services/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/model/services/package-summary.html
+END
+UserAddDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/model/services/UserAddDAO.html
+END

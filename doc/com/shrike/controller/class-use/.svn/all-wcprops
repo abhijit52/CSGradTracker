@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use
+END
+AddGradeApproval.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/AddGradeApproval.html
+END
+ResetServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/ResetServlet.html
+END
+ViewCourseStatus.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/ViewCourseStatus.html
+END
+UserSearchServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/UserSearchServlet.html
+END
+TestCoursePlanServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/TestCoursePlanServlet.html
+END
+UserAddServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/UserAddServlet.html
+END
+EditSecretaryInfoServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/EditSecretaryInfoServlet.html
+END
+DeactivateUserServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/DeactivateUserServlet.html
+END
+EditStudentInfoServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/EditStudentInfoServlet.html
+END
+DownloadFileServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/DownloadFileServlet.html
+END
+AddCourseApproval.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/AddCourseApproval.html
+END
+SearchServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/SearchServlet.html
+END
+ForgetPasswordServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/ForgetPasswordServlet.html
+END
+LoginServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/LoginServlet.html
+END
+ChangePasswordServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/ChangePasswordServlet.html
+END
+DisplayImage.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/DisplayImage.html
+END
+ViewRequiredCoursesServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/ViewRequiredCoursesServlet.html
+END
+ApproveCourseGrade.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/ApproveCourseGrade.html
+END
+ShowCourseServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/ShowCourseServlet.html
+END
+newReference.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/newReference.html
+END
+ConfirmPasswordServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/ConfirmPasswordServlet.html
+END
+ViewCoursePlan.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/ViewCoursePlan.html
+END
+Old_ApproveCourseGrade.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/Old_ApproveCourseGrade.html
+END
+ListAdviseeServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/ListAdviseeServlet.html
+END
+AddCoursePlan.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/AddCoursePlan.html
+END
+UploadServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/UploadServlet.html
+END
+AddFacultyServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/AddFacultyServlet.html
+END
+EditCourseServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/EditCourseServlet.html
+END
+UserDeactivate.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/UserDeactivate.html
+END
+EditFacultyInfoServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/EditFacultyInfoServlet.html
+END
+LogoutServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/course/!svn/ver/6854/comp7012-2013spring/teams/shrike/CSGradTracker/trunk/doc/com/shrike/controller/class-use/LogoutServlet.html
+END
